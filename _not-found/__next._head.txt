@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/oneuldo-wanryo/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/oneuldo-wanryo/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"오늘도, 완료 — 우리 둘의 운동 기록"}],["$","meta","1",{"name":"description","content":"함께 움직이고, 가볍게 기록하는 우리 둘의 운동 습관 앱"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jpoItoG32gBmTQi9Nea6m"}
